@@ -12,5 +12,6 @@
 
 ## How to run this project 
 - Go to cmd (window + R) -> Enter
-- 
+- Cd C:\wamp64\www\number-convert-english
+- php num_to_eng.php
   
